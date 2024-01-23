@@ -1,0 +1,41 @@
+repo_name: aim97/OS-lab1-Compilation
+report_id: 6317c9d946829039fe01a51b165f7f6c
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-23T19:09:12+00:00'
+requested_by: aim97
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/aim97/OS-lab1-Compilation
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/aim97/OS-lab1-Compilation
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/aim97/OS-lab1-Compilation
+  detection_source: Repo Metadata
